@@ -1,4 +1,4 @@
-# Dự án Dịch ngược Phần mềm: Phân tích và Vá mã Nhị phân HTMLPad 2025
+# ỨNG DỤNG CÁC KỸ THUẬT REVERSE ENINEERING VÀO PHẦN MỀM HTMLPAD 2025
 
 Dự án tập trung vào việc nghiên cứu cơ chế bảo mật bản quyền cục bộ và kỹ thuật kiểm tra tính toàn vẹn (Integrity Check) trên ứng dụng Windows 32-bit, cụ thể là phần mềm biên tập mã nguồn HTMLPad 2025. Thông qua việc phân tích động và áp dụng kỹ thuật vá mã nhị phân (Binary Patching), dự án hướng tới mục tiêu vô hiệu hóa giới hạn dùng thử mà vẫn đảm bảo tính toàn vẹn và ổn định của hệ thống.
 
